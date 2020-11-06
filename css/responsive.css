@@ -123,11 +123,8 @@
 	.gridholder {
 	    margin-top: 20px;
 	}
-	.img3 {
-	    order: 2;
-	}
-	.img4 {
-	    order: 1;
+	.img1, .img4 {
+	    height: 300px;
 	}
 	.footercls p {
 	    font-size: 10px;
