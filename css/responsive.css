@@ -117,20 +117,15 @@
 	.textholder {
 	    padding: 0px;
 	}
-	.gridholder div {
-	    width: 100%;
-	}
 	.gridholder {
 	    margin-top: 20px;
-	}
-	.img1, .img4 {
-	    height: 300px;
+    	margin-bottom: 30px;
 	}
 	.footercls p {
 	    font-size: 10px;
 	}
 	h1 {
-	    font-size: 20px;
+	    font-size: 26px;
 	}
 	.italyc {
 	    font-size: 12px;
@@ -138,6 +133,7 @@
 	h2 {
 	    font-size: 16px;
 	}
-
-	
+	.bannercls {
+	    margin-top: 30px;
+	}
 }
