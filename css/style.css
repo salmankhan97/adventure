@@ -74,6 +74,7 @@ span{}
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
+    background-attachment: fixed;
 }
 .bttn{
     background: #ff7034;
