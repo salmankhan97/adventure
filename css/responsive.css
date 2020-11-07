@@ -25,6 +25,7 @@
 	}
 	.headercls nav ul li a {
 		padding: 5px 10px;
+	    font-size: 10px;
 	}
 	.bannercls {
 	    margin-top: 100px;
@@ -55,7 +56,7 @@
 	}
 	.bttn {
 	    padding: 10px 10px;
-	    font-size: 9px;
+	    font-size: 8px;
 	}
 	.gridholder {
 	    width: 100%;
@@ -121,6 +122,9 @@
 	    margin-top: 20px;
     	margin-bottom: 30px;
 	}
+	.footercls{
+		padding: 20px 0px;
+	}
 	.footercls p {
 	    font-size: 10px;
 	}
@@ -136,4 +140,9 @@
 	.bannercls {
 	    margin-top: 30px;
 	}
+	.banner3{
+		margin: 0;
+		margin-bottom: 30px !important;
+	}
+
 }
